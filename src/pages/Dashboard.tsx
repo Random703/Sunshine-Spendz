@@ -133,7 +133,7 @@ export default function Dashboard() {
         {/* Header */}
         <div className="mb-8 text-center animate-slide-up">
           <h1 className="font-vt323 text-5xl md:text-6xl text-foreground mb-2 animate-float">
-            November expense with Arusa ✨
+            December expense with Arusa ✨
           </h1>
           <p className="font-rubik text-muted-foreground">
             Track your sunshine spending
